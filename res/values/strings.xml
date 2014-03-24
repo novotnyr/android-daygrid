@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mriežka dní</string>
+	
+    <string-array name="colors_array">
+        <item>Červená</item>
+        <item>Modrá</item>
+        <item>Zelená</item>
+        <item>Fialová</item>
+        <item>Oranžová</item>
+        <item>Biela</item>
+        <item>Čierna</item>
+        <item>Bez farby</item>
+    </string-array>
+</resources>
